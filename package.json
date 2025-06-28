@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://khushi-vermaa.github.io/React-shopingplatfromUI",
+  "homepage": "https://khushi-vermaa.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
